@@ -76,8 +76,8 @@ plugins=(git zsh-syntax-highlighting)
 
 
 source $ZSH/oh-my-zsh.sh
-
 # User configuration
+source <(fzf --zsh)
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
