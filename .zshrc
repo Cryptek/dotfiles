@@ -106,3 +106,5 @@ export LANG=en_US.UTF-8
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ll="ls -lArth"
+alias vi="nvim"
+alias vim="nvim"
