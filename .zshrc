@@ -105,6 +105,8 @@ export LANG=en_US.UTF-8
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ll="ls -lArth"
+alias ll="ls -larth"
 alias vi="nvim"
 alias vim="nvim"
+alias wks="/Users/shivanshmishra/dev/workspace"
+alias dev="/Users/shivanshmishra/dev"

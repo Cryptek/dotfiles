@@ -1,5 +1,6 @@
 [user]
 	name = Shivansh Mishra
+	email = shivanshm95@gmail.com
 [pull]
 	rebase = true
 [init]
@@ -8,3 +9,8 @@
 	autocrlf = input
 [color]
 	ui = auto
+[rerere]
+	enabled = true
+	autoUpdate = true
+[branch]
+	sort = -committerdate
