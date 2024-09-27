@@ -107,6 +107,10 @@ export LANG=en_US.UTF-8
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ll="ls -larth"
 alias vi="nvim"
-alias vim="nvim"
+#alias vim="nvim"
 alias wks="/Users/shivanshmishra/dev/workspace"
 alias dev="/Users/shivanshmishra/dev"
+
+. "$HOME/.atuin/bin/env"
+
+eval "$(atuin init zsh)"
